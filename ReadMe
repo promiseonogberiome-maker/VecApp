@@ -1,0 +1,56 @@
+VecApp
+
+A unified and simplified system for purposeful discipleship in the church.
+
+Overview
+
+VecApp is a web and mobile platform designed to help churches nurture, track, and grow disciples with structure and purpose. It brings together mentorship, training, and accountability, all in one place.
+
+Why It Matters
+
+Many churches struggle with fragmented or manual discipleship processes, losing track of members’ spiritual growth, mentorship activities, and follow-ups.  
+DiscipleHub solves this by offering a centralized digital system that enables pastors and leaders to guide believers from members → mature disciples → servant leaders.
+
+Who It’s For
+Pastors: to monitor and manage discipleship progress across the church.  
+Leaders/Mentors: to communicate, assign lessons, and track mentees’ spiritual journeys.  
+Members/Disciples: to grow with structured teachings, accountability, and community support.
+
+Key Features
+
+Digital Curriculum: interactive discipleship lessons and growth modules.  
+Progress Tracker: visualize spiritual growth and completion levels.  
+Mentor Dashboard: assign, track, and communicate with disciples.  
+Reminders & Notifications: for prayer times, lessons, and follow-ups.  
+Community Chat: small group engagement and encouragement.  
+Analytics Reports: insights on growth, engagement, and group health.  
+
+Technologies (Planned Stack)
+
+| Layer | Technology | Purpose |
+|-------|-------------|----------|
+| Frontend | React (Web) / Flutter (Mobile) | User interfaces |
+| Backend | Node.js (Express) / Django | APIs & business logic |
+| Database | PostgreSQL / Firebase | Data storage |
+| Authentication | Firebase Auth / JWT | Secure user access |
+| Hosting | AWS / Vercel / Firebase Hosting | Deployment & scalability |
+
+Project Vision
+
+VecApp’s goal is to make discipleship **structured, measurable, and relational, empowering churches worldwide to disciple effectively through technology.
+
+Roadmap (MVP Focus)
+
+1. Build user authentication (Pastor / Leader / Disciple).  
+2. Create core discipleship tracker and progress dashboard.  
+3. Enable content upload and viewing (lessons, teachings).  
+4. Add notifications and group chat.  
+5. Pilot test with 5–10 churches.  
+
+
+
+Contributing
+
+Contributions are welcome!  
+Please open an issue or pull request with suggestions or improvements.
+
